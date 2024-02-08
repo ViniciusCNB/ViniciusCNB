@@ -28,6 +28,7 @@
   <img align="center" alt="React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="FastAPI" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg">
   <img align="center" alt="Django" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">
+  <img align="center" alt="Vue" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
 </div>
 
 ##
