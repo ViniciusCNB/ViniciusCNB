@@ -29,7 +29,8 @@
   <img align="center" alt="Vue" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="FastAPI" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg">
   <img align="center" alt="Django" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">
-  <img align="center" alt="Django" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg">
+  <img align="center" alt="Flask" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg">
+  <img align="center" alt="NestJS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg">
 </div>
 
 ##
